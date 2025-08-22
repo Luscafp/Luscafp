@@ -14,7 +14,7 @@
 
 <div align="center" style="display: flex; justify-content: space-between; align-items: center;">
   <img src="https://media.giphy.com/media/hi1IejONARvmIHG3nr/giphy.gif" alt="Kirby Happy" width="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Luscafp&show_icons=true&locale=en&layout=compact&theme=pink" alt="Top Languages" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Luscafp&show_icons=true&locale=en&layout=compact&theme=pink" alt="Top Languages" width="300"/>
 </div>
 
 ---
