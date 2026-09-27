@@ -2,7 +2,6 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXk3cWF6a3ZzMmFjampvZnY1NXRvcmR5ZXQ4ZnF3eDNtN3pvZXd0ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlIDueXmcWNTPO0/giphy.gif" alt="Kirby Waving" width="250"/>
   <h1>🌟 Bem-vindo ao Lusca's Epic GitHub! 💖</h1>
   <p>Oi! Eu sou o Lusca, um dev aventureiro como o Kirby, pronto para adquirir novas habilidades e explorar mundos de código! ☁️</p>
-  <p>Estou na UFMA, criando projetos incríveis! 🎮</p>
 </div>
 
 ---
@@ -20,11 +19,11 @@
 ---
 
 ### 🎀 Meus Poderes – Habilidades!
-<div align="center" style="display: flex; justify-content: space-between; align-items: center;">
-  <img src="https://media.giphy.com/media/J4VwYMlCxyun2Uq513/giphy.gif" alt="Kirby Power" width="120"/>
-  <h3>Como o Kirby copia poderes, aqui vão os meus favoritos:</h3>
-  <img src="https://media.giphy.com/media/0RYgATJpE6MR3i3Y1B/giphy.gif" alt="Kirby Star" width="120"/>
-</div>
+<h3 align="center">
+  <img src="https://media.giphy.com/media/J4VwYMlCxyun2Uq513/giphy.gif" alt="Kirby Power" width="100" align="middle"/>
+  Como o Kirby copia poderes, aqui vão os meus favoritos:
+  <img src="https://media.giphy.com/media/0RYgATJpE6MR3i3Y1B/giphy.gif" alt="Kirby Star" width="100" align="middle"/>
+</h3>
 
 <div style="text-align: left; max-width: 600px; margin: 0 auto;">
   <ul>
@@ -60,14 +59,15 @@
 ---
 
 ### 💌 Contatos
-<div align="left" style="display: flex; justify-content: space-between; align-items: center;">
-  <img src="https://media.giphy.com/media/v51INjpBKYZ67H70ko/giphy.gif" alt="Kirby Mail" width="150"/>
-</div>
+<img src="https://media.giphy.com/media/v51INjpBKYZ67H70ko/giphy.gif" alt="Kirby Mail" width="100" align="left"/>
 
-- **Email:** [lucasfariaslfp@gmail.com](mailto:lucasfariaslfp@gmail.com) 
-- **LinkedIn:** [linkedin.com/in/lucas-farias-899179269](https://www.linkedin.com/in/lucas-farias-899179269) 
-- **Outros:** Abra uma issue ou PR nos meus repositórios!
+<br/>
 
+📧 **Email:** [lucasfariaslfp@gmail.com](mailto:lucasfariaslfp@gmail.com)<br/>
+💼 **LinkedIn:** [linkedin.com/in/lucas-lfp](https://www.linkedin.com/in/lucas-lfp/)<br/>
+💬 **Outros:** Abra uma issue ou PR nos meus repositórios!
+
+<br clear="both"/>
 ---
 
 <div align="center">
