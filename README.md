@@ -14,7 +14,7 @@
 
 <div align="center" style="display: flex; justify-content: space-between; align-items: center;">
   <img src="https://media.giphy.com/media/hi1IejONARvmIHG3nr/giphy.gif" alt="Kirby Happy" width="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Luscafp&show_icons=true&locale=en&layout=compact&theme=pink" alt="Top Languages" width="300"/>
+  <img src="./profile/top-langs.svg" alt="Top Languages" width="300"/>
 </div>
 
 ---
@@ -54,8 +54,8 @@
 
 ### 📊 Minhas Stats – Estrelas no Céu de Dream Land!
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Luscafp&show_icons=true&theme=pink" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Luscafp&theme=pink" alt="Streak Stats" />
+  <img src="./profile/stats.svg" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=Luscafp&theme=pink" alt="Streak Stats" />
 </div>
 
 ---
@@ -66,7 +66,7 @@
 </div>
 
 - **Email:** [lucasfariaslfp@gmail.com](mailto:lucasfariaslfp@gmail.com) 
-- **LinkedIn:** [linkedin.com/in/luscafp](www.linkedin.com/in/lucas-farias-899179269) 
+- **LinkedIn:** [linkedin.com/in/lucas-farias-899179269](https://www.linkedin.com/in/lucas-farias-899179269) 
 - **Outros:** Abra uma issue ou PR nos meus repositórios!
 
 ---
