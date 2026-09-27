@@ -54,7 +54,6 @@
 
 ### 📊 Minhas Stats – Estrelas no Céu de Dream Land!
 <div align="center">
-  <img src="./profile/stats.svg" alt="GitHub Stats" />
   <img src="https://streak-stats.demolab.com/?user=Luscafp&theme=pink" alt="Streak Stats" />
 </div>
 
